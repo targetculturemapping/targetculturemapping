@@ -1,0 +1,12 @@
+.responsive-image {
+  width: 700px;
+  height: 700px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .responsive-image {
+    display: none;
+  }
+}

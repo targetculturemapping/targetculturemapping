@@ -1,0 +1,54 @@
+.languageSelector--button {
+  height: 32px;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 8px !important;
+  overflow-x: hidden !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px !important;
+  color: #000 !important;
+  overflow-y: hidden !important;
+}
+
+.languageSelector > ul {
+  padding: 0 !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 6px !important;
+  width: 100% !important;
+  color: #ff0000 !important;
+}
+.languageSelector--placeholder {
+  color: blue !important;
+}
+
+.languageSelector > ul > li {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px !important;
+  color: #718096 !important;
+  margin: 0px !important;
+  padding: 5px 10px !important;
+}
+
+.largeFlagIcon {
+  font-size: 33pt;
+  border-radius: 14px;
+}
+
+.flagIconInCard {
+  border-radius: 6px;
+  margin-right: -11px;
+  width: 32px;
+  height: 24px;
+}
+
+.flagsContainer {
+  flex-wrap: wrap;
+  justify-content: start;
+  width: 100%;
+}
+
+.flagIconHolder {
+  background-color: #ffffff;
+  padding-left: 1px;
+}
